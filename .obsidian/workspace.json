@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория/Алгоритмы/O-большое.md",
+                "file": "Теория/Структуры данных/Связный список.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O-большое"
+              "title": "Связный список"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Теория/Алгоритмы/O-большое.md",
+                "file": "Теория/Структуры данных/Связный список.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для O-большое"
+              "title": "Обратные ссылки для Связный список"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Теория/Алгоритмы/O-большое.md",
+                "file": "Теория/Структуры данных/Связный список.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из O-большое"
+              "title": "Исходящие ссылки из Связный список"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Теория/Алгоритмы/O-большое.md",
+                "file": "Теория/Структуры данных/Связный список.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура O-большое"
+              "title": "Структура Связный список"
             }
           },
           {
@@ -197,10 +197,12 @@
   },
   "active": "ab9344ee0fef6b68",
   "lastOpenFiles": [
-    "Задачи Leetcode/Easy/1. Two Sum.md",
-    "Теория/Алгоритмы/O-большое.md",
+    "Теория/Структуры данных/Массив.md",
+    "Теория/Структуры данных/Связный список.md",
     "Теория/Алгоритмы/Бинарный поиск.md",
     "Теория/Python/Словарь в Python.md",
+    "Задачи Leetcode/Easy/1. Two Sum.md",
+    "Теория/Алгоритмы/O-большое.md",
     "Теория/Структуры данных",
     "Теория/Алгоритмы",
     "Материалы для изучения/Grokaem_algoritmy.pdf",
